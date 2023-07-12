@@ -1,5 +1,5 @@
 ## Get Data Project Endpoint
 
-Method : GET
-Base URL : http://localhost:8000/api/
-Endpoint : project
+<p>Method : GET</p>
+<p>Base URL : http://localhost:8000/api/ </p>
+<p>Endpoint : project </p>
